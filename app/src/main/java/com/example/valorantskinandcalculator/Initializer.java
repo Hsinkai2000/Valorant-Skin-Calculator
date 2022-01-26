@@ -1,4 +1,5 @@
 package com.example.valorantskinandcalculator;
 
-public class bundleClass {
+public class Initializer {
+    
 }
